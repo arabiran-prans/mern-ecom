@@ -4,7 +4,7 @@ const data = {
       name: 'Coach Red Bag',
       slug: 'coach-red-bag',
       catergory: 'Bag',
-      image: '/images/p1.jpg',
+      image: '/images/p1.jpg', //650 x 570
       price: 120,
       countInStock: 10,
       brand: 'Coach',
