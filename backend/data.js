@@ -1,6 +1,7 @@
 const data = {
   products: [
     {
+      _id: '1',
       name: 'Coach Red Bag',
       slug: 'coach-red-bag',
       catergory: 'Bag',
@@ -13,6 +14,7 @@ const data = {
       Description: 'Authentic Bag',
     },
     {
+      _id: '2',
       name: 'Coach Blue Bag',
       slug: 'coach-Blue-bag',
       catergory: 'Bag',
@@ -25,6 +27,7 @@ const data = {
       Description: 'Authentic Bag',
     },
     {
+      _id: '3',
       name: 'Coach White Bag',
       slug: 'coach-White-bag',
       catergory: 'Bag',
@@ -37,6 +40,7 @@ const data = {
       Description: 'Authentic Bag',
     },
     {
+      _id: '4',
       name: 'Coach Black Bag',
       slug: 'coach-Black-bag',
       catergory: 'Bag',
